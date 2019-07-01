@@ -294,7 +294,7 @@ class Payment extends Component {
                     </label>
                     <br />
                     <br />
-                    <input onClick={this.handleClickSubmit} type="submit" value="Submit" />
+                    {/* <input onClick={this.handleClickSubmit} type="submit" value="Submit" /> */}
                 </form>
                 <br />
                 <pre>{JSON.stringify(this.state, null, 2)}</pre>

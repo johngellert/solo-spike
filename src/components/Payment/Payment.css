@@ -1,4 +1,23 @@
 .payment {
     width: 400px;
     margin: 20px auto;
+    font-size: x-large;
+}
+
+button {
+    height: 50px;
+    width: 250px;
+    font-size: large;
+}
+
+input {
+    height: 30px;
+    width: 250px;
+    font-size: large;
+}
+
+select {
+    height: 30px;
+    width: 250px;
+    font-size: large;
 }
